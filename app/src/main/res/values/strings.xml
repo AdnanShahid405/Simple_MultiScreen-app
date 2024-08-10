@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="welcome">WELCOME</string>
+    <string name="item1">item1</string>
+    <string name="item2">item2</string>
+    <string name="item3">item3</string>
+    <string name="place_order">Place Order</string>
+    <string name="ordertext">ORDERTEXT</string>
+    <string name="welcome1">WELCOME</string>
+</resources>
